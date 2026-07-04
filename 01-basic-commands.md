@@ -36,4 +36,4 @@ tail file.txt
 man ls
 history
 clear
-```
+``` 
