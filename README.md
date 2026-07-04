@@ -1,6 +1,6 @@
 # Linux Notes
 
-This repository contains my Linux learning notes and practical command examples.
+A collection of my Linux learning notes, commands, and hands-on examples while studying DevOps.
 
 ## Topics
 
@@ -14,4 +14,4 @@ This repository contains my Linux learning notes and practical command examples.
 
 ## Goal
 
-This repository is part of my DevOps learning journey. I document commands, concepts, and practical examples while improving my Linux skills.
+This repository documents my Linux learning journey through notes and practical examples.
